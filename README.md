@@ -30,25 +30,23 @@ Currently Learning
 
 🚀 Projects
 
-MNIST Neural Network from Scratch
+### [MNIST Neural Network from Scratch](https://github.com/ryosei-wsd/MNIST-NN-from-Scratch)
+A three-layer neural network implemented from scratch using NumPy.
 
-A three-layer neural network implemented using NumPy without deep learning frameworks.
+- Forward propagation and backpropagation
+- Mini-batch gradient descent
+- Softmax and cross-entropy loss
+- MNIST classification
+- Test accuracy: 91.10%
 
-* Forward propagation and backpropagation
-* Mini-batch gradient descent
-* Softmax and cross-entropy loss
-* MNIST classification
-* Test accuracy: 91.10%
-
-TicTacToe DQN
-
+### [TicTacToe DQN](https://github.com/ryosei-wsd/TicTacToe-DQN)
 A Tic-Tac-Toe AI implemented using Deep Q-Networks (DQN).
 
-* Experience Replay
-* Target Network
-* ε-greedy exploration
-* Gradient checking
-* Hyperparameter tuning and performance evaluation
+- Experience Replay
+- Target Network
+- ε-greedy exploration
+- Gradient checking
+- Hyperparameter tuning and performance evaluation
 
 📚 Currently Working On
 
