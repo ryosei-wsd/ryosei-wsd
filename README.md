@@ -1,4 +1,4 @@
-Hi, I’m Ryosei 👋
+Hi, I’m Ryosei
 
 I’m an undergraduate student at Waseda University, studying Human Informatics.
 
@@ -6,7 +6,7 @@ I’m interested in Machine Learning, Computational Neuroscience, and Brain-Mach
 
 My current focus is understanding the fundamentals of machine learning through mathematical study and hands-on implementation.
 
-🔬 Research Interests
+Research Interests
 
 * Brain-Machine Interfaces (BMI)
 * Neural Signal Decoding
@@ -14,7 +14,7 @@ My current focus is understanding the fundamentals of machine learning through m
 * Deep Learning
 * Brain Activity and Human Cognition
 
-💻 Technical Skills
+Technical Skills
 
 Languages & Libraries
 
@@ -28,7 +28,7 @@ Currently Learning
 * Deep Learning
 * Machine Learning
 
-🚀 Projects
+Projects
 
 ### [MNIST Neural Network from Scratch](https://github.com/ryosei-wsd/MNIST-NN-from-Scratch)
 A three-layer neural network implemented from scratch using NumPy.
@@ -48,7 +48,7 @@ A Tic-Tac-Toe AI implemented using Deep Q-Networks (DQN).
 - Gradient checking
 - Hyperparameter tuning and performance evaluation
 
-📚 Currently Working On
+Currently Working On
 
 * Studying linear algebra, calculus, and probability
 * Learning PyTorch
